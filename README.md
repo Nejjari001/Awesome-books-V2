@@ -3,13 +3,14 @@
 # Project Name
 
 > Description the project.
+Awesome books-V2 is a project That contains a single-page web application that keeps track of books. Book details captured are the book title, author, and ISBN. Users can add a book, view a list of books, and also remove any un wanted books.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages: HTML5, CSS, JavaScript.
+- Frameworks: None.
+- Technologies used: Visual Studio Code, Chrome, Git, GitHub, Linters.
 
 ## Live Demo (if available)
 
@@ -25,32 +26,29 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+A computer, Git, Text Editor
 ### Setup
+- Checkout the project repository here [Link](https://github.com/Nejjari001/Awesome-books-V2)
 
 ### Install
-
+Use the either respository HTTPS or SSH URLS to clone the project on your computer
+Or download the ZIP folder and extract it's contents.
 ### Usage
-
+Load the index.html file at the root of the project directory
 ### Run tests
-
+Chrome Dev tools
+Linters
 ### Deployment
-
+Use Github pages to deploy project at no cost.
 
 
 ## Authors
 
-👤 **Author1**
+👤 Nejjari Abdelhafid
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Nejjari001](https://github.com/Nejjari001)
+- Twitter: [@AbdoNJ19](https://https://twitter.com/AbdoNJ19)
+- LinkedIn: [Abdelhafid Nejjari](https://www.linkedin.com/in/abdelhafid-nejjari/)
 
 ## 🤝 Contributing
 
@@ -65,11 +63,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
