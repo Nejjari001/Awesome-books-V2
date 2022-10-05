@@ -14,7 +14,7 @@ Awesome books-V2 is a project That contains a single-page web application that k
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://nejjari001.github.io/Awesome-books-V2/)
 
 
 ## Getting Started
